@@ -6,7 +6,7 @@ AI is becoming increasingly integrated into our daily lives, and can be utilized
 Enhancing Creativity and Problem-Solving Abilities with AI-Enabled Idea Generation and Brainstorming
 ----------------------------------------------------------------------------------------------------
 
-AI can be a valuable tool for generating creative ideas and solving problems. Tools such as GPT-3 can be used for brainstorming and generating new ideas by analyzing existing data and offering suggestions based on previous patterns. This can help individuals expand their creativity and come up with new solutions.
+AI can be a valuable tool for generating creative ideas and solving problems. Tools such as GPT-3.5 can be used for brainstorming and generating new ideas by analyzing existing data and offering suggestions based on previous patterns. This can help individuals expand their creativity and come up with new solutions.
 
 Increasing Self-Efficacy and Resilience with AI-Enabled Goal Setting and Tracking
 ---------------------------------------------------------------------------------
