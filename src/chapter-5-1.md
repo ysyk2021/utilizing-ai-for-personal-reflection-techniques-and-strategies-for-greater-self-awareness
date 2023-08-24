@@ -1,5 +1,3 @@
-Enhancing Creativity and Problem-Solving Abilities with AI-Enabled Idea Generation and Brainstorming
-==============================================================================================================================================================
 
 In this chapter, we will explore how AI can be used to enhance creativity and problem-solving abilities through idea generation and brainstorming.
 

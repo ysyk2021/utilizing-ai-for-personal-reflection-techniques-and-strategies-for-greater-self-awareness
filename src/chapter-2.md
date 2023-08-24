@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Personal Reflection
-==============================================================
 
 In this chapter, we'll explore the basic concepts and processes of AI algorithms for personal reflection analysis and enhancement. We'll also take a look at different types of AI techniques and applications for personal reflection practice, as well as tools and platforms for AI-enabled personal reflection.
 

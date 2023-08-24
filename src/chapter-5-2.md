@@ -1,5 +1,3 @@
-Increasing Self-Efficacy and Resilience with AI-Enabled Goal Setting and Tracking
-===========================================================================================================================================
 
 Self-efficacy and resilience are key components of personal growth and development, and setting and achieving goals is an effective way to build both. Advances in AI technology have enabled the development of goal-setting and tracking tools that can enhance personal reflection practice, empowering individuals to set and achieve meaningful goals that support their ongoing growth and development. In this chapter, we will explore strategies for leveraging AI-enabled goal setting and tracking to enhance self-efficacy and resilience in personal reflection practice.
 
