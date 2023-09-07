@@ -8,3 +8,7 @@ Throughout the book, we will draw on real-world examples of individuals who have
 Whether you're seeking to overcome challenges, improve your relationships, or simply live a more fulfilling life, this book will provide you with the knowledge and inspiration you need to incorporate AI into your personal reflection practice. By harnessing the power of AI, you can gain greater clarity and perspective on yourself, your goals, and your path forward.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

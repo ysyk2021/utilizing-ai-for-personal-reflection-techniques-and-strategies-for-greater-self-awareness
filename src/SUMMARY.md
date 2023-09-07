@@ -27,3 +27,5 @@
   - [Measuring the ROI and Effectiveness of AI Implementation in Personal Reflection Practice](chapter-7-1.md)
   - [Identifying Key Performance Metrics and Goals for AI-Enhanced Personal Reflection](chapter-7-2.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
