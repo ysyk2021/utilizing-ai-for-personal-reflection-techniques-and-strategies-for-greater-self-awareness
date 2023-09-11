@@ -1,5 +1,4 @@
-Chapter 10: Tools and Platforms for AI-Enabled Personal Reflection
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will introduce a range of tools and platforms that enable AI-powered personal reflection. These resources empower individuals to incorporate artificial intelligence seamlessly into their self-awareness and insight practices.
 

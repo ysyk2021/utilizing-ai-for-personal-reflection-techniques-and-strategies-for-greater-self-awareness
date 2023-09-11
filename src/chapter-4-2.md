@@ -1,5 +1,4 @@
-Chapter 8: Gaining Deeper Understanding of Your Personality and Behavior with AI-Enabled Personality Analysis and Prediction
-============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can play a pivotal role in deepening your understanding of your personality and behavior. Through AI-enabled personality analysis and prediction, individuals can uncover insights that lead to greater self-awareness and more informed life choices.
 

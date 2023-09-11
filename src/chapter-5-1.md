@@ -1,5 +1,4 @@
-Chapter 16: Enhancing Creativity and Problem-Solving Abilities with AI-Enabled Idea Generation and Brainstorming
-================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can be harnessed to boost creativity and problem-solving skills. By leveraging AI for idea generation and brainstorming, individuals can unlock new levels of innovation and insight in their personal reflection journey.
 

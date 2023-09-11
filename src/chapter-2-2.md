@@ -1,5 +1,4 @@
-Chapter 11: Different Types of AI Techniques and Applications for Personal Reflection Practice
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of AI techniques and their applications in personal reflection. Understanding the diverse AI tools available can help individuals tailor their self-awareness and insight practices to their specific needs and objectives.
 

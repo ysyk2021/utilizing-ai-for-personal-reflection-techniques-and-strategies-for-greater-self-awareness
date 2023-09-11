@@ -1,5 +1,4 @@
-Chapter 15: Identifying Key Performance Metrics and Goals for AI-Enhanced Personal Reflection
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the essential task of identifying the key performance metrics and goals when utilizing AI for personal reflection. Understanding what to measure and setting clear objectives is crucial for maximizing the benefits of AI in enhancing self-awareness and insight.
 

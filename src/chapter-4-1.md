@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Mindfulness and Emotional Intelligence with AI-Enabled Meditation and Visualization
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the powerful synergy between AI technology and mindfulness practices, focusing on how AI can facilitate meditation and visualization techniques to enhance mindfulness and emotional intelligence.
 

@@ -1,5 +1,4 @@
-Chapter 14: Increasing Self-Efficacy and Resilience with AI-Enabled Goal Setting and Tracking
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the powerful combination of artificial intelligence (AI) and goal setting to boost self-efficacy and resilience. By harnessing AI-driven tools for setting and tracking goals, individuals can enhance their self-awareness, increase motivation, and build the capacity to overcome challenges.
 

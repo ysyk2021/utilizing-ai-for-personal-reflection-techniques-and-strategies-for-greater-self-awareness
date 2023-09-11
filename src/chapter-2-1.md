@@ -1,5 +1,4 @@
-Chapter 9: Basic Concepts and Processes of AI Algorithms for Personal Reflection Analysis and Enhancement
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introductory overview of the fundamental concepts and processes underlying AI algorithms used for personal reflection analysis and enhancement. Understanding these basics is essential for effectively utilizing AI in your journey toward greater self-awareness and insight.
 

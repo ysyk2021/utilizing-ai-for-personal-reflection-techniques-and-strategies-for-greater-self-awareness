@@ -1,5 +1,4 @@
-Chapter 1: Identifying Your Personal Goals and Objectives for Optimal Self-Awareness and Insight
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial first step on your journey toward greater self-awareness and insight through AI-assisted personal reflection: identifying your personal goals and objectives. Self-awareness is a fundamental aspect of personal growth and development, and by setting clear goals and objectives, you will pave the way for a more focused and intentional self-reflection process.
 

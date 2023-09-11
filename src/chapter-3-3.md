@@ -1,5 +1,4 @@
-Chapter 17: Creating a Customized Roadmap for AI Implementation in Your Personal Reflection Strategy
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of developing a tailored roadmap for implementing AI in your personal reflection journey. A customized roadmap is essential to harness the full potential of AI for greater self-awareness and insight.
 
